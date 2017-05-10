@@ -1,0 +1,40 @@
+<component name="libraryTable">
+  <library name="resource">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resource/imageio-jpeg-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/datavec-api-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/RBFNetwork.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/reflections-0.9.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/common-image-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/nd4j-native-0.7.0-windows-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/common-lang-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/imageio-psd-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/javassist-3.12.1.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/nd4j-native-0.7.0-macosx-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/opencv-3.1.0-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/commons-io-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/nd4j-native-0.7.0-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/jxl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/jackson-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/common-io-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/wekaDeeplearning4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/nd4j-api-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/multiLayerPerceptrons.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/slf4j-jdk14-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/weka.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/jai-imageio-core-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/imageio-bmp-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/imageio-core-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/datavec-data-image-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/lombok.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/nd4j-native-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/datavec-nd4j-common-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/commons-codec-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/imageio-metadata-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/deeplearning4j-core-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/deeplearning4j-nn-0.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
